@@ -76,7 +76,7 @@ Mind Melody is an interactive space that explores the connection between music, 
 
 ## ✦ Let’s Connect
 
-[![](https://img.shields.io/badge/GitHub-musyall-3-2F4858?style=for-the-badge&logo=github)](https://github.com/isyanaarlisya315-source)
+[![](https://img.shields.io/badge/GitHub-musyall--3-2F4858?style=for-the-badge&logo=github)](https://github.com/musyall-3)
 
 [![](https://img.shields.io/badge/Email-isyanaarlisya315%40gmail.com-B7A6D9?style=for-the-badge&logo=gmail)](mailto:isyanaarlisya315@gmail.com)
 
