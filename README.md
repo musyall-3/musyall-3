@@ -17,7 +17,7 @@
 
 <br>
 
-✿ *a little world of thoughts, feelings, and melodies* ✿
+🎠 *a little world of thoughts, feelings, and melodies* 🎠
 
 <br>
 
